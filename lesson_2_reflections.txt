@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+A git archive is created within the directory. 
+It is needed so that we can save versions using commits.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+It's a provisional file. 
+It allows you to select what changes you want to commit.
+You don't need to save all the files and you will see exactly what changed using git diff. 
