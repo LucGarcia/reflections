@@ -24,3 +24,13 @@ What is the result of merging two branches together? Why do we represent it in t
 The secondary branch and all changes made in it are added to the main branch.
 The end(tip) of the main branch becomes the end (tip) of the secondary branch as well.
 The commits made in both branches are visible from the main branch log.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros:
+	It saves time and effort.
+	If there are conflicts, they are easy to detect in the code.
+Cons:
+	If there are errors or bugs not detected as conflicts, they will pass to the commit.
+	
+
+
