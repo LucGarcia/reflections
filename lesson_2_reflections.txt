@@ -19,3 +19,8 @@ How do the diagrams help you visualize the branch structure?
 They are a visual map of the branches. 
 They help you keep track of how many branches and commits you create.
 They help you maintain a logical structure.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The secondary branch and all changes made in it are added to the main branch.
+The end(tip) of the main branch becomes the end (tip) of the secondary branch as well.
+The commits made in both branches are visible from the main branch log.
