@@ -11,3 +11,7 @@ Forks are copies of a repository that are made directly from one GitHub account 
 Clones are copies of a repository made within a computer or between GitHub and a local computer. They are useful when we want to work on a project collaborating with others through GitHub, or just share it.
 Branches are divergences made within a repository. They are useful when we want to add changes while keeping the original master branch unaffected.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+It gives us information so we can reference how many commits have we made since the last update. 
+If we check the remote through GitHub, we can see whether others have made changes that could conflict.
+
