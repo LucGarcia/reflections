@@ -15,3 +15,7 @@ What is the benefit of having a copy of the last known state of the remote store
 It gives us information so we can reference how many commits have we made since the last update. 
 If we check the remote through GitHub, we can see whether others have made changes that could conflict.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Either sharing a computer, or setting up a computer remote application. Also, the files could be sent back and forth, but that would be a pain. 
+There would be less steps (you wouldn't need to add, commit, push every set of changes).
+It would be harder to work simultaneously, and it wouldn't be possible to work offline on the project.
