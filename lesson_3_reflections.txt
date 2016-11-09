@@ -6,4 +6,8 @@ When you want other people to see it (e.g. open source project).
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 You may not want to pull all your changes, this way you can select when and which changes to update.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks are copies of a repository that are made directly from one GitHub account to another. They are useful when we want to work on a repository without access to the remote or permission to make changes. 
+Clones are copies of a repository made within a computer or between GitHub and a local computer. They are useful when we want to work on a project collaborating with others through GitHub, or just share it.
+Branches are divergences made within a repository. They are useful when we want to add changes while keeping the original master branch unaffected.
 
