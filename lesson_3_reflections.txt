@@ -18,4 +18,9 @@ If we check the remote through GitHub, we can see whether others have made chang
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Either sharing a computer, or setting up a computer remote application. Also, the files could be sent back and forth, but that would be a pain. 
 There would be less steps (you wouldn't need to add, commit, push every set of changes).
-It would be harder to work simultaneously, and it wouldn't be possible to work offline on the project.
+It would be harder to work simultaneously, and it wouldn't be possible to work offline on the project. Also, it would be less secure.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When you want others to check out the changes before they are made (maybe they don't agree or they can see a better solution). 
+Not using a separate branch simplifies the process by eliminating steps.
+Using a separate branch allows others to continue working in the master branch without interferences, or also show it to clients, etc. 
